@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>qrc/save-as.png</file>
+        <file>qrc/256_applications-filesharing.ico</file>
+        <file>qrc/256_edit-clear.ico</file>
+        <file>qrc/256_edit-copy.ico</file>
+        <file>qrc/256_mail-inbox.ico</file>
+        <file>qrc/256_mail-outbox.ico</file>
+        <file>qrc/256_utilities-terminal.ico</file>
+    </qresource>
+</RCC>
