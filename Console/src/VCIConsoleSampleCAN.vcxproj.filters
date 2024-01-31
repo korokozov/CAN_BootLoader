@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CAN">
+      <UniqueIdentifier>{97D8870B-03E2-877C-8C5D-9E7CF865937C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{AEFEE3F6-9AA0-0ECD-835B-22216F9C951D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common\SocketSelectDlg.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\dialog.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CAN\VCIConsoleSample.cpp">
+      <Filter>CAN</Filter>
+    </ClCompile>
+    <ClCompile Include="common\SocketSelectDlg.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\dialog.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\uuids.c">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="common\VCIConsoleSample.rh">
+      <Filter>common</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="common\VCIConsoleSample.rc">
+      <Filter>common</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

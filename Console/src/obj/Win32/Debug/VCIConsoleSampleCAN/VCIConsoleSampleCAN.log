@@ -1,0 +1,5 @@
+﻿  VCIConsoleSample.cpp
+C:\Users\Public\Documents\HMS\Ixxat VCI 4.0\Samples\SDK\Console\src\CAN\VCIConsoleSample.cpp(84,30): warning C4267: инициализация: преобразование из "size_t" в "UINT16"; возможна потеря данных
+C:\Users\Public\Documents\HMS\Ixxat VCI 4.0\Samples\SDK\Console\src\CAN\VCIConsoleSample.cpp(101,16): warning C5208: неименованный класс, используемый в имени typedef, может объявлять только нестатические элементы данных, перечисления элементов или классы элементов.
+C:\Users\Public\Documents\HMS\Ixxat VCI 4.0\Samples\SDK\Console\src\CAN\VCIConsoleSample.cpp(130,25): warning C4267: =: преобразование из "size_t" в "UINT16"; возможна потеря данных
+  VCIConsoleSampleCAN.vcxproj -> C:\Users\Public\Documents\HMS\Ixxat VCI 4.0\Samples\SDK\Console\bin\x32\Debug\VCIConsoleSampleCAN.exe
